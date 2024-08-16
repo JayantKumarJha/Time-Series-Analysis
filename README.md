@@ -1,0 +1,1 @@
+This is a time series project where a hell lot of models has been tested, like ARMA, ARIMA, Simple Exponential, Double Exponential, Triple Exponential and Prophet. Separate files for all these models and all the tests have been uploaded.
